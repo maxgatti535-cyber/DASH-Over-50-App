@@ -32,7 +32,7 @@ A comprehensive mobile-first health tracking application designed specifically f
 1. Upload all files to your GitHub repository
 2. Go to Repository Settings → Pages
 3. Select "Deploy from a branch" → Main branch
-4. Your app will be live at: `https://[username].github.io/DASH-Over-50-App/`
+4. Your app will be live at: `(https://maxgatti535-cyber.github.io/DASH-Over-50-App/)
 
 ### Local Development
 1. Open `index.html` in your browser
