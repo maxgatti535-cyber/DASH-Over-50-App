@@ -1,0 +1,22 @@
+{
+  "name": "dash-over-50-app",
+  "version": "1.0.0",
+  "description": "DASH Over 50+ Health App with AI Coach",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [
+    "health",
+    "dash-diet",
+    "ai-coach",
+    "mobile-app"
+  ],
+  "author": "NinjaTech AI",
+  "license": "MIT",
+  "dependencies": {
+    "groq-sdk": "^0.3.0"
+  },
+  "devDependencies": {}
+}
