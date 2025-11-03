@@ -1,5 +1,5 @@
 {
   "buildCommand": "echo 'No build needed'",
-  "outputDirectory": "",
-  "functionsDirectory": "netlify/functions"
+  "outputDirectory": ".",
+  "functionsDirectory": "api"
 }
